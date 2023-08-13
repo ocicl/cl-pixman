@@ -2,9 +2,8 @@
 
 Common Lisp bindings for Pixman using CFFI
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ReinUsesLisp/cl-pixman.git   |
-| commit  | f6c9f53  |
-| systems | cl-pixman |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/ReinUsesLisp/cl-pixman.git |
+| commit  | f6c9f53                                           |
+| systems | (pixman)                                          |
+|---------+---------------------------------------------------|
